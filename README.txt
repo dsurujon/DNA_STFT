@@ -1,0 +1,3 @@
+This program uses a Short-Time-Fourier Transform method to demonstrate which parts of a gene are introns and which parts are exons. A sliding window of size 400 bases is used in conjunction with the DNA_FT algorithm, and the signal to noise ratio for each window is plotted. A more detailed description of this algorithm can be found in the following publication: 
+
+Tiwari, S., Ramachandran, S., Bhattacharya, A., Bhattacharya, S. & Ramaswamy, R. Prediction of probable genes by Fourier analysis of genomic sequences. Comput. Appl. Biosci. 13, 263–270 (1997). 
